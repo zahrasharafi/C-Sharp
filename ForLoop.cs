@@ -10,6 +10,7 @@ namespace ForLoop
     {
         static void Main(string[] args)
         {
+            // A simple for loop which shows the content for both i and j variables
             int i;
             int j = 10;
             for (i = 0, Console.WriteLine("Start: {0}", i); i < j; i++, j--, Console.WriteLine("i = {0} , j = {1}", i, j))
