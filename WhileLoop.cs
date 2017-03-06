@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +8,7 @@ namespace WhileLoop
 {
     public class WhileLoop
     {
+        // Just a simple while loop to print a message and the variable which works as a counter
         static void Main(string[] args)
         {
             int n = 1;
