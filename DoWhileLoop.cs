@@ -10,6 +10,7 @@ namespace DoLoop
     {
         static void Main(string[] args)
         {
+            // A simple Do While Loop which shows the variable x every time it executes until it reaches 5
             Console.WriteLine("Do While Loop");
             int x = 0;
             do
